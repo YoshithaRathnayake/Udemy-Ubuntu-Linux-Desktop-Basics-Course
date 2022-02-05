@@ -1,4 +1,4 @@
-# <a href="https://www.udemy.com/course/ubuntu-linux-dekstop-basics/?src=sac"><b><i>Udemy Ubuntu Linux Desktop Basics Course</i></b></a>
+# <div align="center"><a href="https://www.udemy.com/course/ubuntu-linux-dekstop-basics/?src=sac"><b><i>Udemy Ubuntu Linux Desktop Basics Course</i></b></a></div>
 
 > This is the Certificate that I got from <a href="https://www.udemy.com/course/ubuntu-linux-dekstop-basics/?src=sac"><b><i>"Udemy Ubuntu Linux Desktop Basics Course"</i></b></a>.
 
